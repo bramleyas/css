@@ -1,0 +1,95 @@
+/* Sans-serif font, Avenir and variations */
+@font-face {
+  font-family: sansReg;
+  src: url();
+}
+@font-face {
+  font-family: sansItalic;
+  src: url()
+}
+@font-face {
+  font-family: sansBold;
+  src: url()
+}
+/* Serif font, Schoolhouse* and variations */
+@font-face {
+  font-family: serifReg;
+  src: url();
+}
+@font-face {
+  font-family: serifItalic;
+  src: url()
+}
+@font-face {
+  font-family: serifBold;
+  src: url()
+}
+html {
+  background-color: #1a1a1a;
+}
+/* Rules for content text */
+.txtTitle {
+
+}
+.txtMain {
+
+}
+.txtSub {
+
+}
+.txtContent {
+
+}
+/* Rules for general text */
+.txtLarge {
+
+}
+.txtMedium {
+
+}
+.txtSmall {
+
+}
+.txtItalic {
+
+}
+.txtBold {
+
+}
+/* Colors */
+.redTxt {
+
+}
+.orangeTxt {
+
+}
+.yellowTxt {
+
+}
+.greenTxt {
+
+}
+.blueTxt {
+
+}
+.purpleTxt {
+
+}
+.redC {
+
+}
+.orangeC {
+
+}
+.yellowC {
+
+}
+.greenC {
+
+}
+.blueC {
+
+}
+.purpleC {
+  
+}
